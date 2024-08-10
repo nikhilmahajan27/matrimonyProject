@@ -1,0 +1,20 @@
+.list{
+    background-image: url("v906-gib-0022e.jpg");
+    height: 590px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color:black;
+    
+}
+.details{
+    background-image: url("4161933.jpg");
+    height: 590px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color:white;
+    
+}
